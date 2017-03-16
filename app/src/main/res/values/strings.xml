@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeProj_Ricky</string>
+    <string name="dice_game_project">Dice Game Project</string>
+    <string name="please_roll_to_start_a_game">Please Roll To Start A Game</string>
+    <string name="roll">ROLL</string>
+    <string name="total_score">TOTAL SCORE</string>
+    <string name="_151300">151300</string>
+</resources>
