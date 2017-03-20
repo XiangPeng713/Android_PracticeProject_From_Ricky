@@ -13,53 +13,57 @@
         android:layout_weight="0.6"
         android:background="#499">
 
+        <Button
+            android:id="@+id/fragment_main_game_button_restart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="1dp"
+            android:text="@string/restart" />
+
         <ImageView
             android:id="@+id/fragment_main_game_dice_1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_above="@+id/fragment_main_game_dice_3"
-            android:layout_marginBottom="48dp"
-            android:layout_marginEnd="24dp"
-            android:layout_toStartOf="@+id/fragment_main_game_dice_3"
-            app:srcCompat="@mipmap/ic_launcher" />
+            android:layout_marginBottom="24dp"
+            android:layout_marginEnd="8dp"
+            android:layout_toStartOf="@+id/fragment_main_game_dice_3" />
 
         <ImageView
             android:id="@+id/fragment_main_game_dice_2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_above="@+id/fragment_main_game_dice_3"
-            android:layout_marginBottom="48dp"
-            android:layout_marginStart="24dp"
-            android:layout_toEndOf="@+id/fragment_main_game_dice_3"
-            app:srcCompat="@mipmap/ic_launcher" />
+            android:layout_marginBottom="24dp"
+            android:layout_marginStart="8dp"
+            android:layout_toEndOf="@+id/fragment_main_game_dice_3" />
 
         <ImageView
             android:id="@+id/fragment_main_game_dice_3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
-            android:layout_centerVertical="true"
-            app:srcCompat="@mipmap/ic_launcher" />
+            android:layout_centerVertical="true" />
 
         <ImageView
             android:id="@+id/fragment_main_game_dice_4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/fragment_main_game_dice_3"
-            android:layout_marginEnd="24dp"
-            android:layout_marginTop="48dp"
-            android:layout_toStartOf="@+id/fragment_main_game_dice_3"
-            app:srcCompat="@mipmap/ic_launcher" />
+            android:layout_marginEnd="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_toStartOf="@+id/fragment_main_game_dice_3" />
 
         <ImageView
             android:id="@+id/fragment_main_game_dice_5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/fragment_main_game_dice_3"
-            android:layout_marginStart="24dp"
-            android:layout_marginTop="48dp"
-            android:layout_toEndOf="@+id/fragment_main_game_dice_3"
-            app:srcCompat="@mipmap/ic_launcher" />
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="24dp"
+            android:layout_toEndOf="@+id/fragment_main_game_dice_3" />
 
     </RelativeLayout>
 

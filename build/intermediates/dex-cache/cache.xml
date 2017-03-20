@@ -3,33 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/16ba1b35b5fbf8939afc14dbf9c410b3f4b90499/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e7ec54c037ad5a4eb615648556e3c8a70429697/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/48cf390c86819ce8699f071e7cdf87059e2f1a4a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_319c9c33d39e64640196f1c8a397671174731fbd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/c8ca3051f379a8f6e64f568cd4f59caf39bfefe6/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d1764bf58e44fcf4d7d8d624c1bd2c20e5e07c3f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -39,93 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/cfc141c923f25ab6a221bb255143d73b50af2aad/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0037c53ef09380e4d151902bd5282db722ee39e5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/965e9724815134e5434dbbaddad1f8ee43ea5c6c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c936d90274b9228b62eec79e82fb3bc060d46eea/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_e3aec8b69277494c94974ba3402cfeb014d87cf3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/f8973fa4d47ab2943e70cf845d094536fddaff90/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12f7ca4a8c3360b84639a6f6d4fc3b76ba834312/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/cabcec1533eed4f0f9fc6b878a8b37f0b4ef74bf/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e38662b775ef2cfb94f620e499eb218f91b6f239/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_667f2b42fa43af59944384ce6fbf646f4a3db325/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/26f19b39b2f6c8a2129189297bf2e4b12bc85d0a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b20e974160bbe92d5c24ead52cccd7cf8ae1d76d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="428ade66bb6f177a8344b8ac8e744e07e2e9965a">
+        sha1="6e06f2f1b730f33cdc698e8b8c81cde25d10bc7a">
         <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_235481f5f843a40179e538bc2a0b554e9befabf2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/019571a971ce789b2e8c12554eb30f7621e0184d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0616010095fcb54e9963bec06667d739ae16b7d2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiangpeng/.android/build-cache/a75d0bc07c1f41f8675229eb7a165f93b9769ece/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/xiangpeng/Desktop/Mentorx/PracticeProj_Ricky/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_343c6aa8d033fca9a171b89256124589f12317b4/classes.dex" />
     </item>
 
 </items>

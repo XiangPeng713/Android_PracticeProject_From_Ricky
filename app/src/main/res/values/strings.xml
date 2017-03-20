@@ -5,4 +5,6 @@
     <string name="roll">ROLL</string>
     <string name="total_score">TOTAL SCORE</string>
     <string name="_151300">151300</string>
+    <string name="test_item_text">Test Item Text</string>
+    <string name="restart">RESTART</string>
 </resources>
